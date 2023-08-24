@@ -1,0 +1,6 @@
+fichero3_desde_repositorio.txt
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
